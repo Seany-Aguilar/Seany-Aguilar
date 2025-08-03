@@ -9,10 +9,6 @@
     <li>🚀 &nbsp; Apasionado por la innovación tecnológica</li>
     <li>🌎 &nbsp; Conocimientos básicos de Francés, Coreano e Inglés</li>
 </ul>
-<p align="center">
-    <br>
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuUsuario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
 
 ## 📊 My Github Stats
 
