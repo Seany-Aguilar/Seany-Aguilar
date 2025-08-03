@@ -1,4 +1,4 @@
-# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>ʙɪᴇɴᴠᴇɴɪᴅᴏ ᴀ ᴍɪ ᴘᴇʀꜰɪʟ<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
+# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓯𝓲𝓷𝓪𝓵 𝓼𝓱𝓸𝔀<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 <h2> 💻 &nbsp;Sobre Mí </h2> 
 <br>
 <ul>
@@ -15,35 +15,49 @@
 </p>
 
 ## 📊 My Github Stats
-<br/>
-<a href="https://github.com/Seany-Aguilar/github-readme-stats">
-    <img alt="Seany Aguilar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Seany-Aguilar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Seany-Aguilar/github-readme-stats">
-    <img alt="Seany Aguilar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seany-Aguilar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seany-Aguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seany-Aguilar&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-  <div align="center">
-  <h3><b>😄 Puedes contactarme!</b></h3>
-  </div>
-<p align="center">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sxxn_xl/" target="_blank">
-    <img align="center" alt="sxxn_xl | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <!-- Gmail -->
-  <a href="mailto:mseok1424@gmail.com" target="_blank">
-    <img align="center" alt="Seany | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+###
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/seany.aguilar.3/" target="_blank">
-    <img align="center" alt="Seany Aguilar | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seany-Aguilar.Seany-Aguilar&left_color=darkblue&right_color=deepskyblue"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="25" alt="discord logo"  />
+  <a href="https://youtube.com/@seanyaguilar8625?si=J4F3OtyAhZT-mZoJ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="25" alt="youtube logo"  />
   </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="25" alt="facebook logo"  />
+  <a href="https://www.instagram.com/sxxn_xl" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Seany-Aguilar/Seany-Aguilar/output/snake.svg" alt="Snake animation" />
+
+###
