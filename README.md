@@ -52,8 +52,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Seany-Aguilar/Seany-Aguilar/output/snake.svg" alt="Snake animation" />
-
 ###
