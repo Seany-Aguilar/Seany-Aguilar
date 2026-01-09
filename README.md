@@ -10,16 +10,7 @@
     <li>🌎 &nbsp; Conocimientos básicos de Francés, Coreano e Inglés</li>
 </ul>
 
-## 📊 My Github Stats
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seany-Aguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Seany-Aguilar&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Seany-Aguilar.Seany-Aguilar&left_color=darkblue&right_color=deepskyblue"  />
@@ -32,8 +23,6 @@
   <a href="https://youtube.com/@seanyaguilar8625?si=J4F3OtyAhZT-mZoJ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" height="25" alt="youtube logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="25" alt="facebook logo"  />
-  <a href="https://www.instagram.com/sxxn_xl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
   </a>
 </div>
